@@ -1,0 +1,109 @@
+*{
+    margin: 0; font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* banner style */
+.banner{ margin: 0px 100px;
+    display: flex;
+    align-items:center
+    
+
+}
+
+.banner-sub-title{ font-weight: 400;
+font-size: 35; position: absolute; top: 30%;right: 10%;
+
+}
+.banner-description{ color: #757575;
+font-size: 12px; 
+
+
+
+}
+.header{ 
+    background-color: #fff8f3;
+background-image:url(./banner1.png); background-size: cover;background-position: center;
+background-repeat: no-repeat;
+height: 700px;width: 100%;
+margin:40px 40px 40px 40px;
+}
+.btn{
+padding: 10px 35px;
+background-color: orangered;
+outline: none;
+position: absolute; bottom: 30%;right: 10%;
+}
+
+.main-div{margin:40px 40px 40px 40px;
+display: flex;
+background-color: bisque;
+}
+.sub-div{padding: 130px 150px;
+
+}
+
+.headline{ font-weight: 600;font-size: 40px;
+}
+
+.para{font-size: 14px;font-weight: 300;color: #757575;
+
+}
+.line{font-size: 14px;font-weight: 300;color: #757575;
+list-style:disc;
+
+}
+
+
+.heading2{margin-left: 500;
+font-size: 50px;
+}
+.main-div2{margin:60px 60px 60px 60px;margin-left: 300px;
+display: flex;
+gap: 50px;
+}
+
+
+.para1{ font-weight: bolder;}
+
+.para2{color: #757575;}
+
+
+
+
+
+.main-div3{display: flex;gap: 100px;
+    margin:0px 0px 0px 0px;
+    background-color: black;color: antiquewhite;
+    padding-bottom: 200px; 
+    
+}
+.h3{ font-size: 60px;}
+
+.div-for-img{display: flex;}
+
+
+.btn2{ background-color: black; border-color: aliceblue;
+color: antiquewhite; border-radius: 20px;
+
+}
+.btn3{ background-color: aliceblue;color: orangered;
+border-radius: 20; border-bottom: 20px;}
+
+
+.backimg{ background-repeat: no-repeat;
+background-image: url(./watch.png); background-size: cover;background-position: center;
+height: 250px;width: 70%;
+margin:100px 100px 60px 100px;
+}
+
+
+
+.h4{font-weight: 600;color: white;
+font font-size: larger;
+
+}
+
+.btn4{
+    background-color: white; color: orange;
+}
